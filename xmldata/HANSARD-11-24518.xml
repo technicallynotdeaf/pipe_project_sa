@@ -1,0 +1,2026 @@
+<hansard.toc sid="HANSARD-11-24464" pid="HANSARD-11-24518">
+  <hansard.header>
+    <date>2016-10-20T10:30:00</date>
+    <parliament.number>53</parliament.number>
+    <session.number>2</session.number>
+    <parliament.session.name>Fifty-Third Parliament, Second Session (53-2)</parliament.session.name>
+    <chamber>House of Assembly</chamber>
+    <uncorrected>false</uncorrected>
+  </hansard.header>
+  <proceeding>
+    <proceedinginfo>
+      <text>Bills</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24465" ref="1">
+      <topic.data>
+        <type>Bill</type>
+        <id>r4046</id>
+      </topic.data>
+      <topicinfo>
+        <text>Death with Dignity Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Introduction and First Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T10:32:18</talk.time>
+              <id>1807</id>
+              <name>Dr McFETRIDGE</name>
+              <electorate>Morphett</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T10:32:48</talk.time>
+              <id>1807</id>
+              <name>Dr McFETRIDGE</name>
+              <electorate>Morphett</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+    <topic uid="HANSARD-11-24466" ref="2">
+      <topic.data>
+        <type>Bill</type>
+        <id>r3905</id>
+      </topic.data>
+      <topicinfo>
+        <text>Voluntary Euthanasia Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T10:48:21</talk.time>
+              <id>4847</id>
+              <name>Mr KNOLL</name>
+              <electorate>Schubert</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T10:57:10</talk.time>
+              <id>4343</id>
+              <name>Mr GARDNER</name>
+              <electorate>Morialta</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T11:00:04</talk.time>
+              <id>4342</id>
+              <name>Mr VAN HOLST PELLEKAAN</name>
+              <electorate>Stuart</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T11:06:09</talk.time>
+              <id>4842</id>
+              <name>The Hon. S.C. MULLIGHAN</name>
+              <electorate>Lee</electorate>
+              <portfolios>
+                <portfolio>Minister for Transport and Infrastructure</portfolio>
+                <portfolio>Minister for Housing and Urban Development</portfolio>
+              </portfolios>
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T11:16:16</talk.time>
+              <id>4837</id>
+              <name>Mr SPEIRS</name>
+              <electorate>Bright</electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T11:26:31</talk.time>
+              <id>3117</id>
+              <name>The Hon. L.W.K. BIGNELL</name>
+              <electorate>Mawson</electorate>
+              <portfolios>
+                <portfolio>Minister for Agriculture</portfolio>
+                <portfolio>Minister for Forests</portfolio>
+                <portfolio>Minister for Tourism</portfolio>
+                <portfolio>Minister for Recreation and Sport</portfolio>
+                <portfolio>Minister for Racing</portfolio>
+              </portfolios>
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-10-20T11:27:29</talk.time>
+              <id>1804</id>
+              <name>Ms CHAPMAN</name>
+              <electorate>Bragg</electorate>
+              <portfolios>
+                <portfolio>Deputy Leader of the Opposition</portfolio>
+              </portfolios>
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24467" ref="3">
+      <topicinfo>
+        <text>Gawler Traffic Management</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T11:32:22</talk.time>
+            <id>4847</id>
+            <name>Mr KNOLL</name>
+            <electorate>Schubert</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T11:45:17</talk.time>
+            <id>3123</id>
+            <name>The Hon. A. PICCOLO</name>
+            <electorate>Light</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T11:56:04</talk.time>
+            <id>3120</id>
+            <name>Mr PEDERICK</name>
+            <electorate>Hammond</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:05:45</talk.time>
+            <id>3121</id>
+            <name>Mr PENGILLY</name>
+            <electorate>Finniss</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:07:50</talk.time>
+            <id>4847</id>
+            <name>Mr KNOLL</name>
+            <electorate>Schubert</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24468" ref="4">
+      <topicinfo>
+        <text>Willoughby, Mr Sam</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:17:30</talk.time>
+            <id>4978</id>
+            <name>Ms COOK</name>
+            <electorate>Fisher</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:24:32</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:31:43</talk.time>
+            <id>4978</id>
+            <name>Ms COOK</name>
+            <electorate>Fisher</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24469" ref="5">
+      <topicinfo>
+        <text>Emergency Services Levy</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:32:51</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:43:43</talk.time>
+            <id>1802</id>
+            <name>The Hon. P. CAICA</name>
+            <electorate>Colton</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T12:54:05</talk.time>
+            <id>546</id>
+            <name>Mr WILLIAMS</name>
+            <electorate>MacKillop</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Procedure</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24470" ref="6">
+      <topicinfo>
+        <text>Visitors</text>
+      </topicinfo>
+    </topic>
+    <topic uid="HANSARD-11-24471" ref="7">
+      <topicinfo>
+        <text>Answers Tabled</text>
+      </topicinfo>
+    </topic>
+    <topic uid="HANSARD-11-24472" ref="8">
+      <topicinfo>
+        <text>Papers</text>
+      </topicinfo>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Question Time</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24473" ref="9">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:03:12</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:03:40</talk.time>
+            <id>633</id>
+            <name>The Hon. A. KOUTSANTONIS</name>
+            <electorate>West Torrens</electorate>
+            <portfolios>
+              <portfolio>Minister for Finance</portfolio>
+              <portfolio>Minister for State Development</portfolio>
+              <portfolio>Minister for Mineral Resources and Energy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24474" ref="10">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:07:40</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:07:51</talk.time>
+            <id>633</id>
+            <name>The Hon. A. KOUTSANTONIS</name>
+            <electorate>West Torrens</electorate>
+            <portfolios>
+              <portfolio>Minister for Finance</portfolio>
+              <portfolio>Minister for State Development</portfolio>
+              <portfolio>Minister for Mineral Resources and Energy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24475" ref="11">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:10:09</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:10:17</talk.time>
+            <id>633</id>
+            <name>The Hon. A. KOUTSANTONIS</name>
+            <electorate>West Torrens</electorate>
+            <portfolios>
+              <portfolio>Minister for Finance</portfolio>
+              <portfolio>Minister for State Development</portfolio>
+              <portfolio>Minister for Mineral Resources and Energy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24476" ref="12">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:10:18</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:10:29</talk.time>
+            <id>633</id>
+            <name>The Hon. A. KOUTSANTONIS</name>
+            <electorate>West Torrens</electorate>
+            <portfolios>
+              <portfolio>Minister for Finance</portfolio>
+              <portfolio>Minister for State Development</portfolio>
+              <portfolio>Minister for Mineral Resources and Energy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24477" ref="13">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:10:55</talk.time>
+            <id>4343</id>
+            <name>Mr GARDNER</name>
+            <electorate>Morialta</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:11:21</talk.time>
+            <id>633</id>
+            <name>The Hon. A. KOUTSANTONIS</name>
+            <electorate>West Torrens</electorate>
+            <portfolios>
+              <portfolio>Minister for Finance</portfolio>
+              <portfolio>Minister for State Development</portfolio>
+              <portfolio>Minister for Mineral Resources and Energy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24478" ref="14">
+      <topicinfo>
+        <text>Renewable Energy Target</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:11:25</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:11:38</talk.time>
+            <id>1812</id>
+            <name>The Hon. J.W. WEATHERILL</name>
+            <electorate>Cheltenham</electorate>
+            <portfolios>
+              <portfolio>Premier</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24479" ref="15">
+      <topicinfo>
+        <text>Childcare Services</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:16:24</talk.time>
+            <id>4340</id>
+            <name>Ms SANDERSON</name>
+            <electorate>Adelaide</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:16:44</talk.time>
+            <id>4622</id>
+            <name>The Hon. S.E. CLOSE</name>
+            <electorate>Port Adelaide</electorate>
+            <portfolios>
+              <portfolio>Minister for Education and Child Development</portfolio>
+              <portfolio>Minister for Higher Education and Skills</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24480" ref="16">
+      <topicinfo>
+        <text>Childcare Services</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:17:07</talk.time>
+            <id>4340</id>
+            <name>Ms SANDERSON</name>
+            <electorate>Adelaide</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:17:23</talk.time>
+            <id>4622</id>
+            <name>The Hon. S.E. CLOSE</name>
+            <electorate>Port Adelaide</electorate>
+            <portfolios>
+              <portfolio>Minister for Education and Child Development</portfolio>
+              <portfolio>Minister for Higher Education and Skills</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24481" ref="17">
+      <topicinfo>
+        <text>Childcare Services</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:17:30</talk.time>
+            <id>4340</id>
+            <name>Ms SANDERSON</name>
+            <electorate>Adelaide</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:17:47</talk.time>
+            <id>4622</id>
+            <name>The Hon. S.E. CLOSE</name>
+            <electorate>Port Adelaide</electorate>
+            <portfolios>
+              <portfolio>Minister for Education and Child Development</portfolio>
+              <portfolio>Minister for Higher Education and Skills</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24482" ref="18">
+      <topicinfo>
+        <text>Post-Traumatic Stress Disorder Centre for Excellence</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:19:09</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:19:22</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24483" ref="19">
+      <topicinfo>
+        <text>Post-Traumatic Stress Disorder Centre for Excellence</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:19:43</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:19:57</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24484" ref="20">
+      <topicinfo>
+        <text>Post-Traumatic Stress Disorder Centre for Excellence</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:20:04</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:20:18</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24485" ref="21">
+      <topicinfo>
+        <text>Child and Adolescent Mental Health Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:20:28</talk.time>
+            <id>4843</id>
+            <name>Mr WINGARD</name>
+            <electorate>Mitchell</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:20:47</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24486" ref="22">
+      <topicinfo>
+        <text>Child and Adolescent Mental Health Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:20:57</talk.time>
+            <id>4843</id>
+            <name>Mr WINGARD</name>
+            <electorate>Mitchell</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:21:08</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24487" ref="23">
+      <topicinfo>
+        <text>Child and Adolescent Mental Health Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:21:14</talk.time>
+            <id>4843</id>
+            <name>Mr WINGARD</name>
+            <electorate>Mitchell</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:21:31</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24488" ref="24">
+      <topicinfo>
+        <text>Child and Adolescent Mental Health Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:21:42</talk.time>
+            <id>4843</id>
+            <name>Mr WINGARD</name>
+            <electorate>Mitchell</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:21:55</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24489" ref="25">
+      <topicinfo>
+        <text>Child and Adolescent Mental Health Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:22:13</talk.time>
+            <id>4843</id>
+            <name>Mr WINGARD</name>
+            <electorate>Mitchell</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:22:20</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24490" ref="26">
+      <topicinfo>
+        <text>Punjabi Association of South Australia</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:22:30</talk.time>
+            <id>4840</id>
+            <name>Mr TARZIA</name>
+            <electorate>Hartley</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:22:47</talk.time>
+            <id>4623</id>
+            <name>The Hon. Z.L. BETTISON</name>
+            <electorate>Ramsay</electorate>
+            <portfolios>
+              <portfolio>Minister for Communities and Social Inclusion</portfolio>
+              <portfolio>Minister for Social Housing</portfolio>
+              <portfolio>Minister for the Status of Women</portfolio>
+              <portfolio>Minister for Ageing</portfolio>
+              <portfolio>Minister for Multicultural Affairs</portfolio>
+              <portfolio>Minister for Youth</portfolio>
+              <portfolio>Minister for Volunteers</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24491" ref="27">
+      <topicinfo>
+        <text>Multicultural SA Grant Program</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:25:12</talk.time>
+            <id>4343</id>
+            <name>Mr GARDNER</name>
+            <electorate>Morialta</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:25:41</talk.time>
+            <id>4623</id>
+            <name>The Hon. Z.L. BETTISON</name>
+            <electorate>Ramsay</electorate>
+            <portfolios>
+              <portfolio>Minister for Communities and Social Inclusion</portfolio>
+              <portfolio>Minister for Social Housing</portfolio>
+              <portfolio>Minister for the Status of Women</portfolio>
+              <portfolio>Minister for Ageing</portfolio>
+              <portfolio>Minister for Multicultural Affairs</portfolio>
+              <portfolio>Minister for Youth</portfolio>
+              <portfolio>Minister for Volunteers</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24492" ref="28">
+      <topicinfo>
+        <text>Multicultural SA Grant Program</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:26:19</talk.time>
+            <id>4343</id>
+            <name>Mr GARDNER</name>
+            <electorate>Morialta</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:26:47</talk.time>
+            <id>4623</id>
+            <name>The Hon. Z.L. BETTISON</name>
+            <electorate>Ramsay</electorate>
+            <portfolios>
+              <portfolio>Minister for Communities and Social Inclusion</portfolio>
+              <portfolio>Minister for Social Housing</portfolio>
+              <portfolio>Minister for the Status of Women</portfolio>
+              <portfolio>Minister for Ageing</portfolio>
+              <portfolio>Minister for Multicultural Affairs</portfolio>
+              <portfolio>Minister for Youth</portfolio>
+              <portfolio>Minister for Volunteers</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24493" ref="29">
+      <topicinfo>
+        <text>Multicultural SA Grant Program</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:27:35</talk.time>
+            <id>4338</id>
+            <name>Mr MARSHALL</name>
+            <electorate>Dunstan</electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:27:48</talk.time>
+            <id>4623</id>
+            <name>The Hon. Z.L. BETTISON</name>
+            <electorate>Ramsay</electorate>
+            <portfolios>
+              <portfolio>Minister for Communities and Social Inclusion</portfolio>
+              <portfolio>Minister for Social Housing</portfolio>
+              <portfolio>Minister for the Status of Women</portfolio>
+              <portfolio>Minister for Ageing</portfolio>
+              <portfolio>Minister for Multicultural Affairs</portfolio>
+              <portfolio>Minister for Youth</portfolio>
+              <portfolio>Minister for Volunteers</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24494" ref="30">
+      <topicinfo>
+        <text>Dairy Concessional Loans</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:28:23</talk.time>
+            <id>4844</id>
+            <name>Mr BELL</name>
+            <electorate>Mount Gambier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:28:40</talk.time>
+            <id>3117</id>
+            <name>The Hon. L.W.K. BIGNELL</name>
+            <electorate>Mawson</electorate>
+            <portfolios>
+              <portfolio>Minister for Agriculture</portfolio>
+              <portfolio>Minister for Forests</portfolio>
+              <portfolio>Minister for Tourism</portfolio>
+              <portfolio>Minister for Recreation and Sport</portfolio>
+              <portfolio>Minister for Racing</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24495" ref="31">
+      <topicinfo>
+        <text>Dairy Concessional Loans</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:32:56</talk.time>
+            <id>4844</id>
+            <name>Mr BELL</name>
+            <electorate>Mount Gambier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:33:11</talk.time>
+            <id>3117</id>
+            <name>The Hon. L.W.K. BIGNELL</name>
+            <electorate>Mawson</electorate>
+            <portfolios>
+              <portfolio>Minister for Agriculture</portfolio>
+              <portfolio>Minister for Forests</portfolio>
+              <portfolio>Minister for Tourism</portfolio>
+              <portfolio>Minister for Recreation and Sport</portfolio>
+              <portfolio>Minister for Racing</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24496" ref="32">
+      <topicinfo>
+        <text>Dairy Concessional Loans</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:37:16</talk.time>
+            <id>546</id>
+            <name>Mr WILLIAMS</name>
+            <electorate>MacKillop</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:37:47</talk.time>
+            <id>3117</id>
+            <name>The Hon. L.W.K. BIGNELL</name>
+            <electorate>Mawson</electorate>
+            <portfolios>
+              <portfolio>Minister for Agriculture</portfolio>
+              <portfolio>Minister for Forests</portfolio>
+              <portfolio>Minister for Tourism</portfolio>
+              <portfolio>Minister for Recreation and Sport</portfolio>
+              <portfolio>Minister for Racing</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24497" ref="33">
+      <topicinfo>
+        <text>Dairy Concessional Loans</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:41:45</talk.time>
+            <id>4844</id>
+            <name>Mr BELL</name>
+            <electorate>Mount Gambier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:42:15</talk.time>
+            <id>3117</id>
+            <name>The Hon. L.W.K. BIGNELL</name>
+            <electorate>Mawson</electorate>
+            <portfolios>
+              <portfolio>Minister for Agriculture</portfolio>
+              <portfolio>Minister for Forests</portfolio>
+              <portfolio>Minister for Tourism</portfolio>
+              <portfolio>Minister for Recreation and Sport</portfolio>
+              <portfolio>Minister for Racing</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24498" ref="34">
+      <topicinfo>
+        <text>Infrastructure Investment Program</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:46:30</talk.time>
+            <id>4838</id>
+            <name>Ms DIGANCE</name>
+            <electorate>Elder</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:46:47</talk.time>
+            <id>4842</id>
+            <name>The Hon. S.C. MULLIGHAN</name>
+            <electorate>Lee</electorate>
+            <portfolios>
+              <portfolio>Minister for Transport and Infrastructure</portfolio>
+              <portfolio>Minister for Housing and Urban Development</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24499" ref="35">
+      <topicinfo>
+        <text>Repatriation General Hospital</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:51:06</talk.time>
+            <id>1807</id>
+            <name>Dr McFETRIDGE</name>
+            <electorate>Morphett</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:51:29</talk.time>
+            <id>627</id>
+            <name>The Hon. J.J. SNELLING</name>
+            <electorate>Playford</electorate>
+            <portfolios>
+              <portfolio>Minister for Health</portfolio>
+              <portfolio>Minister for the Arts</portfolio>
+              <portfolio>Minister for Health Industries</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24500" ref="36">
+      <topicinfo>
+        <text>Noarlunga Hospital</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:51:54</talk.time>
+            <id>4841</id>
+            <name>Mr PICTON</name>
+            <electorate>Kaurna</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:52:12</talk.time>
+            <id>627</id>
+            <name>The Hon. J.J. SNELLING</name>
+            <electorate>Playford</electorate>
+            <portfolios>
+              <portfolio>Minister for Health</portfolio>
+              <portfolio>Minister for the Arts</portfolio>
+              <portfolio>Minister for Health Industries</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24501" ref="37">
+      <topicinfo>
+        <text>National Disability Insurance Scheme</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:55:26</talk.time>
+            <id>4847</id>
+            <name>Mr KNOLL</name>
+            <electorate>Schubert</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:55:43</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24502" ref="38">
+      <topicinfo>
+        <text>National Disability Insurance Scheme</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:56:11</talk.time>
+            <id>4847</id>
+            <name>Mr KNOLL</name>
+            <electorate>Schubert</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T14:56:26</talk.time>
+            <id>4623</id>
+            <name>The Hon. Z.L. BETTISON</name>
+            <electorate>Ramsay</electorate>
+            <portfolios>
+              <portfolio>Minister for Communities and Social Inclusion</portfolio>
+              <portfolio>Minister for Social Housing</portfolio>
+              <portfolio>Minister for the Status of Women</portfolio>
+              <portfolio>Minister for Ageing</portfolio>
+              <portfolio>Minister for Multicultural Affairs</portfolio>
+              <portfolio>Minister for Youth</portfolio>
+              <portfolio>Minister for Volunteers</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24503" ref="39">
+      <topicinfo>
+        <text>Rehabilitation Services</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:00:29</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:00:44</talk.time>
+            <id>4336</id>
+            <name>The Hon. L.A. VLAHOS</name>
+            <electorate>Taylor</electorate>
+            <portfolios>
+              <portfolio>Minister for Disabilities</portfolio>
+              <portfolio>Minister for Mental Health and Substance Abuse</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-11-24504" ref="40">
+      <topicinfo>
+        <text>Rehabilitation Services</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:01:19</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+    </topic>
+    <topic uid="HANSARD-11-24505" ref="41">
+      <topicinfo>
+        <text>Aquaculture Industry</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:01:37</talk.time>
+            <id>539</id>
+            <name>The Hon. S.W. KEY</name>
+            <electorate>Ashford</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:01:53</talk.time>
+            <id>3117</id>
+            <name>The Hon. L.W.K. BIGNELL</name>
+            <electorate>Mawson</electorate>
+            <portfolios>
+              <portfolio>Minister for Agriculture</portfolio>
+              <portfolio>Minister for Forests</portfolio>
+              <portfolio>Minister for Tourism</portfolio>
+              <portfolio>Minister for Recreation and Sport</portfolio>
+              <portfolio>Minister for Racing</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Condolence</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24506" ref="42">
+      <topicinfo>
+        <text>Draper, Mr L.</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:04:27</talk.time>
+            <id>1810</id>
+            <name>The Hon. J.R. RAU</name>
+            <electorate>Enfield</electorate>
+            <portfolios>
+              <portfolio>Deputy Premier</portfolio>
+              <portfolio>Attorney-General</portfolio>
+              <portfolio>Minister for Justice Reform</portfolio>
+              <portfolio>Minister for Planning</portfolio>
+              <portfolio>Minister for Industrial Relations</portfolio>
+              <portfolio>Minister for Child Protection Reform</portfolio>
+              <portfolio>Minister for the Public Sector</portfolio>
+              <portfolio>Minister for Consumer and Business Services</portfolio>
+              <portfolio>Minister for the City of Adelaide</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:08:42</talk.time>
+            <id>4342</id>
+            <name>Mr VAN HOLST PELLEKAAN</name>
+            <electorate>Stuart</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:11:31</talk.time>
+            <id>614</id>
+            <name>The Hon. J.M. RANKINE</name>
+            <electorate>Wright</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:16:32</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Grievance Debate</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24507" ref="43">
+      <topicinfo>
+        <text>Goyder Electorate School Closures</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:20:36</talk.time>
+            <id>3118</id>
+            <name>Mr GRIFFITHS</name>
+            <electorate>Goyder</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24508" ref="44">
+      <topicinfo>
+        <text>Labour Day</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:25:43</talk.time>
+            <id>4845</id>
+            <name>Mr GEE</name>
+            <electorate>Napier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24509" ref="45">
+      <topicinfo>
+        <text>New Zealand Fur Seals</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:30:44</talk.time>
+            <id>3120</id>
+            <name>Mr PEDERICK</name>
+            <electorate>Hammond</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24510" ref="46">
+      <topicinfo>
+        <text>Davidson, Mr Brayden</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:35:46</talk.time>
+            <id>4978</id>
+            <name>Ms COOK</name>
+            <electorate>Fisher</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24511" ref="47">
+      <topicinfo>
+        <text>Paradise Interchange</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:40:55</talk.time>
+            <id>4840</id>
+            <name>Mr TARZIA</name>
+            <electorate>Hartley</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24512" ref="48">
+      <topicinfo>
+        <text>National Carers Week</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:44:53</talk.time>
+            <id>4848</id>
+            <name>Ms WORTLEY</name>
+            <electorate>Torrens</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Resolutions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24513" ref="49">
+      <topicinfo>
+        <text>Elder Abuse</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:51:55</talk.time>
+            <id>4978</id>
+            <name>Ms COOK</name>
+            <electorate>Fisher</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24514" ref="50">
+      <topicinfo>
+        <text>Emergency Services Levy</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:54:20</talk.time>
+            <id>1807</id>
+            <name>Dr McFETRIDGE</name>
+            <electorate>Morphett</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T15:59:30</talk.time>
+            <id>1805</id>
+            <name>Mr GOLDSWORTHY</name>
+            <electorate>Kavel</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:09:30</talk.time>
+            <id>4841</id>
+            <name>Mr PICTON</name>
+            <electorate>Kaurna</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:19:15</talk.time>
+            <id>4844</id>
+            <name>Mr BELL</name>
+            <electorate>Mount Gambier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:28:19</talk.time>
+            <id>4840</id>
+            <name>Mr TARZIA</name>
+            <electorate>Hartley</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:34:04</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24515" ref="51">
+      <topicinfo>
+        <text>International Year of Pulses</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:44:23</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:54:35</talk.time>
+            <id>4848</id>
+            <name>Ms WORTLEY</name>
+            <electorate>Torrens</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T16:58:30</talk.time>
+            <id>4341</id>
+            <name>Mr TRELOAR</name>
+            <electorate>Flinders</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:09:13</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-11-24516" ref="52">
+      <topicinfo>
+        <text>KESAB Environmental Solutions</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:11:55</talk.time>
+            <id>4341</id>
+            <name>Mr TRELOAR</name>
+            <electorate>Flinders</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:21:55</talk.time>
+            <id>539</id>
+            <name>The Hon. S.W. KEY</name>
+            <electorate>Ashford</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:29:53</talk.time>
+            <id>4339</id>
+            <name>Mr WHETSTONE</name>
+            <electorate>Chaffey</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:33:18</talk.time>
+            <id>1802</id>
+            <name>The Hon. P. CAICA</name>
+            <electorate>Colton</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:40:50</talk.time>
+            <id>4991</id>
+            <name>Mr DULUK</name>
+            <electorate>Davenport</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:45:25</talk.time>
+            <id>3118</id>
+            <name>Mr GRIFFITHS</name>
+            <electorate>Goyder</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:49:36</talk.time>
+            <id>4844</id>
+            <name>Mr BELL</name>
+            <electorate>Mount Gambier</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-10-20T17:53:52</talk.time>
+            <id>4341</id>
+            <name>Mr TRELOAR</name>
+            <electorate>Flinders</electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Answers to Questions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-11-24517" ref="53">
+      <topicinfo>
+        <text>Grants and Subsidies</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>1807</id>
+            <name>Dr McFETRIDGE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number>242</question.number>
+            <question.date>2016-09-27T00:00:00</question.date>
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>631</id>
+            <name>The Hon. M.L.J. HAMILTON-SMITH</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+  </proceeding>
+</hansard.toc>

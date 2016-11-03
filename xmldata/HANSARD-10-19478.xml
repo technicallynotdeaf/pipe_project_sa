@@ -1,0 +1,2137 @@
+<hansard.toc sid="HANSARD-10-19412" pid="HANSARD-10-19478">
+  <hansard.header>
+    <date>2016-11-02T11:00:00</date>
+    <parliament.number>53</parliament.number>
+    <session.number>2</session.number>
+    <parliament.session.name>Fifty-Third Parliament, Second Session (53-2)</parliament.session.name>
+    <chamber>Legislative Council</chamber>
+    <uncorrected>false</uncorrected>
+  </hansard.header>
+  <proceeding>
+    <proceedinginfo>
+      <text>Bills</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19413" ref="1">
+      <topic.data>
+        <type>Bill</type>
+        <id>s4034</id>
+      </topic.data>
+      <topicinfo>
+        <text>Child Safety (Prohibited Persons) Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Committee Stage</text>
+        </subproceedinginfo>
+      </subproceeding>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Third Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T12:29:07</talk.time>
+              <id>5084</id>
+              <name>The Hon. P. MALINAUSKAS</name>
+              <electorate></electorate>
+              <portfolios>
+                <portfolio>Minister for Police</portfolio>
+                <portfolio>Minister for Correctional Services</portfolio>
+                <portfolio>Minister for Emergency Services</portfolio>
+                <portfolio>Minister for Road Safety</portfolio>
+              </portfolios>
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+    <topic uid="HANSARD-10-19414" ref="2">
+      <topic.data>
+        <type>Bill</type>
+        <id>s4019</id>
+      </topic.data>
+      <topicinfo>
+        <text>Statutes Amendment (Budget 2016) Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T12:30:25</talk.time>
+              <id>2742</id>
+              <name>The Hon. J.M.A. LENSINK</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T12:52:33</talk.time>
+              <id>3404</id>
+              <name>The Hon. J.A. DARLEY</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Procedure</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19415" ref="3">
+      <topicinfo>
+        <text>Papers</text>
+      </topicinfo>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Committees</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19416" ref="4">
+      <topicinfo>
+        <text>Environment, Resources and Development Committee</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:20:44</talk.time>
+            <id>4867</id>
+            <name>The Hon. T.T. NGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Ministerial Statement</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19417" ref="5">
+      <topicinfo>
+        <text>Europe Defence Mission</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:20:57</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Procedure</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19418" ref="6">
+      <topicinfo>
+        <text>Answers Tabled</text>
+      </topicinfo>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Question Time</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19419" ref="7">
+      <topicinfo>
+        <text>Gillman Land Sale</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:22:40</talk.time>
+            <id>1820</id>
+            <name>The Hon. D.W. RIDGWAY</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:22:59</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19420" ref="8">
+      <topicinfo>
+        <text>APY Executive</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:24:53</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:25:18</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19421" ref="9">
+      <topicinfo>
+        <text>APY Executive</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:25:48</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:26:03</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19422" ref="10">
+      <topicinfo>
+        <text>APY Executive</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:26:26</talk.time>
+            <id>3164</id>
+            <name>The Hon. S.G. WADE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:26:51</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19423" ref="11">
+      <topicinfo>
+        <text>APY Executive</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:27:13</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:27:34</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19424" ref="12">
+      <topicinfo>
+        <text>Aboriginal Tourism</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:28:06</talk.time>
+            <id>4867</id>
+            <name>The Hon. T.T. NGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:28:14</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19425" ref="13">
+      <topicinfo>
+        <text>Aboriginal Tourism</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:31:39</talk.time>
+            <id>599</id>
+            <name>The Hon. J.S.L. DAWKINS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:32:00</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19426" ref="14">
+      <topicinfo>
+        <text>Yatala Labour Prison Incident</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:32:26</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:33:23</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19427" ref="15">
+      <topicinfo>
+        <text>Yatala Labour Prison Incident</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:36:31</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:36:43</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19428" ref="16">
+      <topicinfo>
+        <text>Northern Adelaide Food Park</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:36:48</talk.time>
+            <id>605</id>
+            <name>The Hon. R.I. LUCAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:38:15</talk.time>
+            <id>4697</id>
+            <name>The Hon. K.J. MAHER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Employment</portfolio>
+              <portfolio>Minister for Aboriginal Affairs and Reconciliation</portfolio>
+              <portfolio>Minister for Manufacturing and Innovation</portfolio>
+              <portfolio>Minister for Automotive Transformation</portfolio>
+              <portfolio>Minister for Science and Information Economy</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19429" ref="17">
+      <topicinfo>
+        <text>Renewable Energy and Clean Technology</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:40:03</talk.time>
+            <id>1822</id>
+            <name>The Hon. J.M. GAZZOLA</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:40:39</talk.time>
+            <id>3122</id>
+            <name>The Hon. I.K. HUNTER</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Sustainability, Environment and Conservation</portfolio>
+              <portfolio>Minister for Water and the River Murray</portfolio>
+              <portfolio>Minister for Climate Change</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19430" ref="18">
+      <topicinfo>
+        <text>Drug Driving</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:49:13</talk.time>
+            <id>3126</id>
+            <name>The Hon. D.G.E. HOOD</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:50:28</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19431" ref="19">
+      <topicinfo>
+        <text>Drug Driving</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:54:49</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:55:06</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19432" ref="20">
+      <topicinfo>
+        <text>Drug Driving</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:57:43</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:58:02</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19433" ref="21">
+      <topicinfo>
+        <text>Prisoner Mail Screening</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:58:19</talk.time>
+            <id>4362</id>
+            <name>The Hon. J.S. LEE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T14:58:56</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19434" ref="22">
+      <topicinfo>
+        <text>Prisoner Mail Screening</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:00:31</talk.time>
+            <id>4362</id>
+            <name>The Hon. J.S. LEE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:00:52</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19435" ref="23">
+      <topicinfo>
+        <text>Prisoner Mail Screening</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:01:19</talk.time>
+            <id>3164</id>
+            <name>The Hon. S.G. WADE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:01:35</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19436" ref="24">
+      <topicinfo>
+        <text>Prisoner Mail Screening</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:01:44</talk.time>
+            <id>4364</id>
+            <name>The Hon. K.L. VINCENT</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:02:02</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19437" ref="25">
+      <topicinfo>
+        <text>Prisoner Mail Screening</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:02:45</talk.time>
+            <id>4364</id>
+            <name>The Hon. K.L. VINCENT</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:02:54</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19438" ref="26">
+      <topicinfo>
+        <text>Road Safety</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:03:42</talk.time>
+            <id>1821</id>
+            <name>The Hon. G.E. GAGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:03:53</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19439" ref="27">
+      <topicinfo>
+        <text>Road Safety</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:08:08</talk.time>
+            <id>3489</id>
+            <name>The Hon. R.L. BROKENSHIRE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:08:38</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19440" ref="28">
+      <topicinfo>
+        <text>Ice Addiction</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:11:18</talk.time>
+            <id>1820</id>
+            <name>The Hon. D.W. RIDGWAY</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:12:20</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19441" ref="29">
+      <topicinfo>
+        <text>Road Safety</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:14:45</talk.time>
+            <id>4364</id>
+            <name>The Hon. K.L. VINCENT</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:15:10</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19442" ref="30">
+      <topicinfo>
+        <text>Ice Addiction</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:16:43</talk.time>
+            <id>4866</id>
+            <name>The Hon. A.L. McLACHLAN</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:17:46</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19443" ref="31">
+      <topicinfo>
+        <text>Yatala Labour Prison Incident</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:21:39</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:22:17</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19444" ref="32">
+      <topicinfo>
+        <text>Yatala Labour Prison Incident</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:23:55</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:24:15</talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Minister for Police</portfolio>
+              <portfolio>Minister for Correctional Services</portfolio>
+              <portfolio>Minister for Emergency Services</portfolio>
+              <portfolio>Minister for Road Safety</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Matters of Interest</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19445" ref="33">
+      <topicinfo>
+        <text>Gender Pay Equality</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:26:12</talk.time>
+            <id>1821</id>
+            <name>The Hon. G.E. GAGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19446" ref="34">
+      <topicinfo>
+        <text>Northern Adelaide Irrigation Scheme</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:31:36</talk.time>
+            <id>1820</id>
+            <name>The Hon. D.W. RIDGWAY</name>
+            <electorate></electorate>
+            <portfolios>
+              <portfolio>Leader of the Opposition</portfolio>
+            </portfolios>
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19447" ref="35">
+      <topicinfo>
+        <text>Arts, Education and Lifestyle Choices</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:36:01</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19448" ref="36">
+      <topicinfo>
+        <text>Twu Safe Rates Campaign</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:41:04</talk.time>
+            <id>4867</id>
+            <name>The Hon. T.T. NGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19449" ref="37">
+      <topicinfo>
+        <text>Plastic Free July</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:46:27</talk.time>
+            <id>3404</id>
+            <name>The Hon. J.A. DARLEY</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19450" ref="38">
+      <topicinfo>
+        <text>Nepal Delegation</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:50:38</talk.time>
+            <id>4362</id>
+            <name>The Hon. J.S. LEE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19451" ref="39">
+      <topicinfo>
+        <text>Brumley Songwriting Exchange</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T15:55:43</talk.time>
+            <id>1822</id>
+            <name>The Hon. J.M. GAZZOLA</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19452" ref="40">
+      <topicinfo>
+        <text>Prescribed Scale of Costs</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:00:59</talk.time>
+            <id>4866</id>
+            <name>The Hon. A.L. McLACHLAN</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Committees</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19453" ref="41">
+      <topicinfo>
+        <text>Legislative Review Committee: Inquiry into an Amendment to the Births, Deaths and Marriages Registration Regulations 2011 to Enable the Recognition of De Facto Relationships on the Register Recording the Death of a Person (Death Certificate)</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:04:53</talk.time>
+            <id>4866</id>
+            <name>The Hon. A.L. McLACHLAN</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19454" ref="42">
+      <topicinfo>
+        <text>HIV</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:14:18</talk.time>
+            <id>4363</id>
+            <name>The Hon. T.A. FRANKS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19455" ref="43">
+      <topicinfo>
+        <text>Environment Protection Authority (Air Quality) Policy</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:25:27</talk.time>
+            <id>2742</id>
+            <name>The Hon. J.M.A. LENSINK</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Committees</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19456" ref="44">
+      <topicinfo>
+        <text>Budget and Finance Committee: Annual Report 2015-16</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:33:19</talk.time>
+            <id>605</id>
+            <name>The Hon. R.I. LUCAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19457" ref="45">
+      <topicinfo>
+        <text>Parliamentary Committee on Occupational Safety, Rehabilitation and Compensation: Referral of Work, Health and Safety (Industrial Manslaughter) Amendment Bill</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:39:52</talk.time>
+            <id>3404</id>
+            <name>The Hon. J.A. DARLEY</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:48:39</talk.time>
+            <id>599</id>
+            <name>The Hon. J.S.L. DAWKINS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19458" ref="46">
+      <topicinfo>
+        <text>Natural Resources Committee: Alinytjara Wilurara Regional Fact Finding Trip</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T16:51:43</talk.time>
+            <id>599</id>
+            <name>The Hon. J.S.L. DAWKINS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T17:02:51</talk.time>
+            <id>3489</id>
+            <name>The Hon. R.L. BROKENSHIRE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+    <topic uid="HANSARD-10-19459" ref="47">
+      <topicinfo>
+        <text>Natural Resources Committee: Annual Report 2015-16</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T17:05:17</talk.time>
+            <id>599</id>
+            <name>The Hon. J.S.L. DAWKINS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T17:12:13</talk.time>
+            <id>3489</id>
+            <name>The Hon. R.L. BROKENSHIRE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19460" ref="48">
+      <topicinfo>
+        <text>Prison Administration</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T17:15:12</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Bills</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19461" ref="49">
+      <topic.data>
+        <type>Bill</type>
+        <id>s4005</id>
+      </topic.data>
+      <topicinfo>
+        <text>Return to Work (Weekly Payments Under Transitional Provisions) Amendment Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T17:22:50</talk.time>
+              <id>4363</id>
+              <name>The Hon. T.A. FRANKS</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T17:32:53</talk.time>
+              <id>605</id>
+              <name>The Hon. R.I. LUCAS</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T17:43:00</talk.time>
+              <id>1821</id>
+              <name>The Hon. G.E. GAGO</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T17:51:29</talk.time>
+              <id>3404</id>
+              <name>The Hon. J.A. DARLEY</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+    <topic uid="HANSARD-10-19462" ref="50">
+      <topic.data>
+        <type>Bill</type>
+        <id>s3982</id>
+      </topic.data>
+      <topicinfo>
+        <text>Steel Industry Protection Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T19:46:56</talk.time>
+              <id>605</id>
+              <name>The Hon. R.I. LUCAS</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:03:11</talk.time>
+              <id>4364</id>
+              <name>The Hon. K.L. VINCENT</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:03:23</talk.time>
+              <id>3404</id>
+              <name>The Hon. J.A. DARLEY</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:05:50</talk.time>
+              <id>4867</id>
+              <name>The Hon. T.T. NGO</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:10:58</talk.time>
+              <id>3130</id>
+              <name>The Hon. M.C. PARNELL</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19463" ref="51">
+      <topicinfo>
+        <text>Adelaide United Football Club</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T20:19:49</talk.time>
+            <id>4867</id>
+            <name>The Hon. T.T. NGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T20:28:01</talk.time>
+            <id>599</id>
+            <name>The Hon. J.S.L. DAWKINS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T20:38:07</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Bills</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19464" ref="52">
+      <topic.data>
+        <type>Bill</type>
+        <id>s3950</id>
+      </topic.data>
+      <topicinfo>
+        <text>Surveillance Devices (Animal Welfare) Amendment Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:39:05</talk.time>
+              <id>2742</id>
+              <name>The Hon. J.M.A. LENSINK</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:43:39</talk.time>
+              <id>4364</id>
+              <name>The Hon. K.L. VINCENT</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:44:52</talk.time>
+              <id>1822</id>
+              <name>The Hon. J.M. GAZZOLA</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T20:46:18</talk.time>
+              <id>4363</id>
+              <name>The Hon. T.A. FRANKS</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19465" ref="53">
+      <topicinfo>
+        <text>Davis, Mr Steve</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T21:00:10</talk.time>
+            <id>4867</id>
+            <name>The Hon. T.T. NGO</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T21:04:48</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Procedure</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19466" ref="54">
+      <topicinfo>
+        <text>Visitors</text>
+      </topicinfo>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Motions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19467" ref="55">
+      <topicinfo>
+        <text>Asian Cup</text>
+      </topicinfo>
+      <speech>
+        <talk.start>
+          <talker>
+            <talk.time>2016-11-02T21:05:29</talk.time>
+            <id>1819</id>
+            <name>The Hon. T.J. STEPHENS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </speech>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Parliamentary Committees</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19468" ref="56">
+      <topicinfo>
+        <text>Budget and Finance Committee: Annual Report 2014-15</text>
+      </topicinfo>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Bills</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19469" ref="57">
+      <topic.data>
+        <type>Bill</type>
+        <id>s3756</id>
+      </topic.data>
+      <topicinfo>
+        <text>Freedom of Information (Miscellaneous) Amendment Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Second Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T21:06:35</talk.time>
+              <id>1821</id>
+              <name>The Hon. G.E. GAGO</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T21:15:39</talk.time>
+              <id>4866</id>
+              <name>The Hon. A.L. McLACHLAN</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T21:23:12</talk.time>
+              <id>4364</id>
+              <name>The Hon. K.L. VINCENT</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T21:24:12</talk.time>
+              <id>3130</id>
+              <name>The Hon. M.C. PARNELL</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Committee Stage</text>
+        </subproceedinginfo>
+      </subproceeding>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Third Reading</text>
+        </subproceedinginfo>
+        <speech>
+          <talk.start>
+            <talker>
+              <talk.time>2016-11-02T21:29:53</talk.time>
+              <id>3130</id>
+              <name>The Hon. M.C. PARNELL</name>
+              <electorate></electorate>
+              <portfolios />
+              <question.number />
+              <question.date />
+            </talker>
+          </talk.start>
+        </speech>
+      </subproceeding>
+    </topic>
+    <topic uid="HANSARD-10-19470" ref="58">
+      <topic.data>
+        <type>Bill</type>
+        <id>s3966</id>
+      </topic.data>
+      <topicinfo>
+        <text>Retirement Villages Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Final Stages</text>
+        </subproceedinginfo>
+      </subproceeding>
+    </topic>
+    <topic uid="HANSARD-10-19471" ref="59">
+      <topic.data>
+        <type>Bill</type>
+        <id>s4034</id>
+      </topic.data>
+      <topicinfo>
+        <text>Child Safety (Prohibited Persons) Bill</text>
+      </topicinfo>
+      <subproceeding>
+        <subproceedinginfo>
+          <text>Final Stages</text>
+        </subproceedinginfo>
+      </subproceeding>
+    </topic>
+  </proceeding>
+  <proceeding>
+    <proceedinginfo>
+      <text>Answers to Questions</text>
+    </proceedinginfo>
+    <topic uid="HANSARD-10-19472" ref="60">
+      <topicinfo>
+        <text>South Australia Police</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>3489</id>
+            <name>the Hon. R.L. BROKENSHIRE</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19473" ref="61">
+      <topicinfo>
+        <text>Prisoner Support and Treatment</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>4364</id>
+            <name>the Hon. K.L. VINCENT</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19474" ref="62">
+      <topicinfo>
+        <text>Home Detention</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>3126</id>
+            <name>the Hon. D.G.E. HOOD</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19475" ref="63">
+      <topicinfo>
+        <text>Firearms Licences</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>4866</id>
+            <name>the Hon. A.L. McLACHLAN</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19476" ref="64">
+      <topicinfo>
+        <text>Country Fire Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>3404</id>
+            <name>the Hon. J.A. DARLEY</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+    <topic uid="HANSARD-10-19477" ref="65">
+      <topicinfo>
+        <text>Country Fire Service</text>
+      </topicinfo>
+      <question>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>4866</id>
+            <name>the Hon. A.L. McLACHLAN</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </question>
+      <answer>
+        <talk.start>
+          <talker>
+            <talk.time></talk.time>
+            <id>5084</id>
+            <name>The Hon. P. MALINAUSKAS</name>
+            <electorate></electorate>
+            <portfolios />
+            <question.number />
+            <question.date />
+          </talker>
+        </talk.start>
+      </answer>
+    </topic>
+  </proceeding>
+</hansard.toc>
