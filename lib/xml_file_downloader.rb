@@ -58,10 +58,11 @@ end
 
 reader = HansardCSVReader.new
 
-csvfilename = "Hansard_Source_CSV.csv"
+csvfilename = "SA_Hansard_index.csv"
 
 HansardCSVReader.read_index(csvfilename)
 
 
 
-SA_Hansard_index.csv
+
+
