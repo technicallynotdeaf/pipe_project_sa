@@ -1,5 +1,8 @@
 #!/usr/bin/env/ruby
 
+# This file is deprecated, it reads CSV output manually downloaded 
+# from the read-hansard-dates scraper
+
 require 'csv'
 #require 'ostruct'
 require 'enumerator'
@@ -49,7 +52,9 @@ class HansardCSVReader
       puts "URL: " + url
 
       #now attempt to download it... 
-      `curl --output #{filename} #{url}`
+#       `curl --output #{filename} #{url}`
+      # This doesn't work because that saves the blank HTML page, 
+      # not the attached xml content.
     end
 
   end
