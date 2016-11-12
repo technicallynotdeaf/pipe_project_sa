@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>PIPE Project SA 404</title>
+    <title>PIPE Project Alpha</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,22 +30,7 @@
 
     <?php include 'navbar.php'; ?>
 
-    <!-- Page Content -->
-    <div class="container">
-
-        <!-- Jumbotron Header -->
-        <header class="jumbotron hero-spacer">
-            <h1>404 Error</h1>
-            <p> We obviously haven't increased the visibility of THAT page yet. Sorry. </p>
-            <!-- <p><a class="btn btn-primary btn-large">Call to action!</a> --> 
-            </p>
-        </header>
-
-        <hr>
-
-
-    </div>
-    <!-- /.container -->
+    <?php include 'list_summaries.php'; ?>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
