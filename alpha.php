@@ -28,9 +28,16 @@
 
 <body>
 
-    <?php include 'navbar.php'; ?>
+    <?php include '../navbar.php'; ?>
 
-    <?php include 'list_summaries.php'; ?>
+    <h1> Alpha sneak preview... </h1>
+
+    <div> 
+    <a href="summary_list.php"> List of available summaries </a>
+    </div>
+    <div> 
+    <a href="missing_files.html"> List of missing transcripts </a>
+    </div>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
