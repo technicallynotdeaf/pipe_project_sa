@@ -58,13 +58,15 @@ module JSONDownloader
   def JSONDownloader.get_each_toc_filename(annualIndexFilename)
 
     transcripts_found = 0
+    transcripts_missing = 0
 
     puts "Parsing annual index #{annualIndexFilename}" if $debug
     rawJSON = File.read(annualIndexFilename)
     loadedJSON = JSON.load rawJSON # Why is this returning a String!?
     parsedJSON = JSON.load loadedJSON # Needs to be parsed twice (!?)
 
-    @outputfile = JSONDownloader.create_html_missing_list()
+
+#    @outputfile << "\n<div class=\"col-sm-4\">"
 
     parsedJSON.each do |event| # for-each-date
 #      puts event.keys if $debug
@@ -85,15 +87,19 @@ module JSONDownloader
           downloaded_filename = "../xmldata/" + saphFilename + ".xml"
 
           if ( File.exists?(downloaded_filename) ) then 
-            puts "#{downloaded_filename} already downloaded." if $debug
+#            puts "#{downloaded_filename} already downloaded." if $debug
 
             transcripts_found += 1
 
           else 
+            transcripts_missing += 1
 #            puts "#{downloaded_filename} not found." if $debug
             toc_download_link = @manual_toc_link + saphFilename
+            @outputfile << "\n<div class=\"alert alert-warning\" role =\"alert\">"
             @outputfile << "\n<p> <a href=\"#{toc_download_link}\">"
-            @outputfile << "#{saphFilename} </a> </p>"
+            @outputfile << "<strong>Missing: </strong> #{saphFilename}"
+            @outputfile << " </a>(#{record_date} - #{saphChamber})</p>"
+            @outputfile << "\n</div>"
 
           end
 
@@ -104,8 +110,13 @@ module JSONDownloader
       
     end # end for-each-date block
 
-    @outputfile.close
-    
+    if ( transcripts_missing == 0 ) then
+      @outputfile << "\n<h4> No Transcripts missing from "
+      @outputfile << "#{annualIndexFilename} </h4>"
+    end
+
+#    @outputfile << "\n</div>" #end col-sm-4
+
     transcripts_found #return number of transcripts found
 
   end
@@ -124,11 +135,20 @@ module JSONDownloader
   end
 
 
-  def JSONDownloader.create_html_missing_list()
-    filename = "/var/www/pipeproject/sa/missing_files.html"
-    File.open(filename, "a")
+  def JSONDownloader.open_html_output_page()
+    filename = "/var/www/pipeproject/sa/missing_files.php"
+    @outputfile = File.open(filename, "w")
+    @outputfile << "\n<?php include \'../header.php\' ?>"
+    @outputfile << "\n<div class=\"container\">"
+    @outputfile << "\n<div class=\"row\">"
   end
 
+  def JSONDownloader.close_html_output_page()
+    @outputfile << "\n</div></div>"
+    @outputfile << "\n<?php include \'../footer.php\' ?>"
+    @outputfile.close
+  end
+    
 end #end JSONDownloader class
 
 puts "\"Filename\",\"date\",\"house\"" if $csvoutput
@@ -139,10 +159,14 @@ year = 2007
 
 transcripts_found = 0;
 
+JSONDownloader.open_html_output_page()
+
 while year <= currentyear
    transcripts_found += JSONDownloader.download_all_TOCs(year)
    year += 1
 end
+
+JSONDownloader.close_html_output_page()
 
 puts "Transcripts found: " + transcripts_found.to_s
 
