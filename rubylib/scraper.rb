@@ -20,23 +20,22 @@ require 'fileutils'
 
 # from Hansard server content-type is text/html, attachment is xml
 
-$debug = TRUE
-$htmloutput = TRUE
+$debug = FALSE
 $csvoutput = FALSE
 $sqloutput = FALSE
 
-module JSONDownloader
+class JSONDownloader
 
   # The URLs to access the API... 
-  @jsonDownloadYearURL = "https://hansardpublic.parliament.sa.gov.au/_vti_bin/Hansard/HansardData.svc/GetYearlyEvents/"
 
 #  @jsonDownloadTocUrl = "https://hansardpublic.parliament.sa.gov.au/_vti_bin/Hansard/HansardData.svc/GetByDate"
 
-#  Manual Download Link: 
-  @manual_toc_link = "http://hansardpublic.parliament.sa.gov.au/_layouts/15/Hansard/DownloadHansardFile.ashx?t=tocxml&d="
- 
+  def initialize
+    @total_found_transcripts = 0
+    @total_missing_transcripts = 0
+  end 
 
-  def JSONDownloader.download_all_TOCs(year) 
+  def download_all_TOCs(year) 
   
     #Annual Index is a special case - different API URL  
     annualIndexFilename = downloadAnnualIndex(year)
@@ -55,10 +54,13 @@ module JSONDownloader
   end
 
   # read horrible JSON file and get toc filenames
-  def JSONDownloader.get_each_toc_filename(annualIndexFilename)
+  def get_each_toc_filename(annualIndexFilename)
 
-    transcripts_found = 0
-    transcripts_missing = 0
+    #  Manual Download Link: 
+    @manual_toc_link = "http://hansardpublic.parliament.sa.gov.au/_layouts/15/Hansard/DownloadHansardFile.ashx?t=tocxml&d="
+
+    @transcripts_found = 0
+    @transcripts_missing = 0
 
     puts "Parsing annual index #{annualIndexFilename}" if $debug
     rawJSON = File.read(annualIndexFilename)
@@ -89,10 +91,10 @@ module JSONDownloader
           if ( File.exists?(downloaded_filename) ) then 
 #            puts "#{downloaded_filename} already downloaded." if $debug
 
-            transcripts_found += 1
+            @transcripts_found += 1
 
           else 
-            transcripts_missing += 1
+            @transcripts_missing += 1
 #            puts "#{downloaded_filename} not found." if $debug
             toc_download_link = @manual_toc_link + saphFilename
             @outputfile << "\n<div class=\"alert alert-warning\" role =\"alert\">"
@@ -110,20 +112,35 @@ module JSONDownloader
       
     end # end for-each-date block
 
-    if ( transcripts_missing == 0 ) then
+    if ( @transcripts_missing == 0 ) then
       @outputfile << "\n<h4> No Transcripts missing from "
       @outputfile << "#{annualIndexFilename} </h4>"
     end
 
 #    @outputfile << "\n</div>" #end col-sm-4
 
-    transcripts_found #return number of transcripts found
+    @total_missing_transcripts += @transcripts_missing
+    @total_found_transcripts += @transcripts_found
 
+    @transcripts_found #return number of transcripts found
+
+  end
+
+  def get_num_transcripts_found
+    @total_found_transcripts
+  end
+ 
+  def get_num_transcripts_missing
+    @total_missing_transcripts
   end
 
   # Puts the raw, no-line-breaks JSON into a file and
   # returns the file name.
-  def JSONDownloader.downloadAnnualIndex(year)
+  def downloadAnnualIndex(year)
+
+    @jsonDownloadYearURL = "https://hansardpublic.parliament.sa.gov.au/_vti_bin/Hansard/HansardData.svc/GetYearlyEvents/"
+    
+    warn 'nil year supplied?' if(year == NIL) 
 
     urlToLoad = @jsonDownloadYearURL + year.to_s
     filename = "downloaded/#{year.to_s}_hansard.json"
@@ -135,7 +152,7 @@ module JSONDownloader
   end
 
 
-  def JSONDownloader.open_html_output_page()
+  def open_html_output_page()
     filename = "/var/www/pipeproject/sa/missing_files.php"
     @outputfile = File.open(filename, "w")
     @outputfile << "\n<?php include \'../header.php\' ?>"
@@ -143,7 +160,7 @@ module JSONDownloader
     @outputfile << "\n<div class=\"row\">"
   end
 
-  def JSONDownloader.close_html_output_page()
+  def close_html_output_page()
     @outputfile << "\n</div></div>"
     @outputfile << "\n<?php include \'../footer.php\' ?>"
     @outputfile.close
@@ -151,24 +168,26 @@ module JSONDownloader
     
 end #end JSONDownloader class
 
-puts "\"Filename\",\"date\",\"house\"" if $csvoutput
+# puts "\"Filename\",\"date\",\"house\"" if $csvoutput
 
-currentyear = Date.today.year
+# currentyear = Date.today.year
 
-year = 2007
+# year = 2007
 
-transcripts_found = 0;
+# transcripts_found = 0
 
-JSONDownloader.open_html_output_page()
+# downloader = JSONDownloader.new
 
-while year <= currentyear
-   transcripts_found += JSONDownloader.download_all_TOCs(year)
-   year += 1
-end
-
-JSONDownloader.close_html_output_page()
-
-puts "Transcripts found: " + transcripts_found.to_s
-
-
+# downloader.open_html_output_page()
+# 
+# while year <= currentyear
+#    transcripts_found += downloader.download_all_TOCs(year)
+#    year += 1
+# end
+# 
+# downloader.close_html_output_page()
+# 
+# puts "Transcripts found: " + transcripts_found.to_s
+# 
+# puts "Files missing: " + downloader.get_num_transcripts_missing.to_s
 

@@ -21,12 +21,15 @@ while (false !== ($filename = readdir($dh))) {
 
 sort($files);
 
+$reversed_list = array_reverse( $files );
 
 
-foreach ($files as $filename) {
+foreach ($reversed_list as $filename) {
 
-          $linkaddr = "summary.php?date={$filename}";
+          $linkaddr = "summaries/{$filename}";
 
+          // manually ignore . and .. ; better to use File.file? but the 
+          // logic block kept throwing errors somewhere. TODO: fix this.
           if ($filename != "." && $filename != "..") {
                echo "<br> <a href=\"{$linkaddr}\">";
                echo $filename;

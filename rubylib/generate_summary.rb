@@ -3,11 +3,12 @@
 require 'nokogiri'
 require 'date'
 
+
+$DEBUG = FALSE
 # not used yet, I need to class-ify the code structure LOTS MORE!!
 
 @inputFileLocation = "/var/www/pipeproject/sa/xmldata/"
 
-@outputFileLocation = "/var/www/pipeproject/sa/summaries/"
 
 def openInputFile (filename)
 
@@ -18,9 +19,20 @@ end
 
 def openOutputFile (datestr)
 
-  filename = @outputFileLocation + datestr + ".html"
-  File.open(filename, "a")
+  @outputFileLocation = "/var/www/pipeproject/sa/summaries/"
 
+  filename = @outputFileLocation + datestr + ".php"
+
+  # If the file doesn't exist, put in the header and heading
+  if (!File.exists? filename) then
+    outputfile = File.open(filename, "w")
+    outputfile << "<?php include '../../header.php' ?>"
+    outputfile << "\n<h1> Auto-Generated Analysis: #{datestr} </h1>"
+    outputfile.close
+  end
+
+  File.open(filename, "a")
+    
 end 
 
 
@@ -37,21 +49,30 @@ def generateSummary (fullFileName)
   
   datestr = d.strftime('%Y-%m-%d')
 
-  puts "Date: #{datestr}"
-  
   @outputfile = openOutputFile (datestr)
+
   
-  @outputfile << "\n<h1> Basic File Analysis: #{datestr} </h1>"
+  #------Identify House (Upper, lower, estimates...) ------------ # 
   
-  #------Identify Date ------------ # 
+  house_str = @doc.xpath("//chamber").first.to_s
+ 
+  case house_str
+  when /House/  # House of Reps is green in parliament
+    @outputfile << "\n<div class=\"panel panel-success\" >"
+  when /Council/  # Senate is colour coded red
+    @outputfile << "\n<div class=\"panel panel-danger\" >"
+  else # E.g. estimates committee... grey
+    @outputfile << "\n<div class=\"panel panel-default\" >"
+  end
   
-  houseStr = @doc.xpath("//chamber").first.to_s
-  
-  @outputfile <<  "<h2> House: #{houseStr} </h2>"
+  @outputfile << "\n<div class=\"panel-heading\">"
+  @outputfile << "\n\t<h2> House: #{house_str} </h2>"
+  @outputfile << "\n</div>"
+  @outputfile << "\n<div class=\"panel-body\" >"
   
   #------Identify Speakers, sort by frequency, output to analysis ----#
-  
-  @outputfile << "\n<h2> MPs who spoke in House of Reps </h2>"
+ 
+  @outputfile << "\n<h2> MPs who spoke in #{house_str} </h2>"
   @outputfile << "\n<ul>"
   seen = {}
   
@@ -73,9 +94,10 @@ def generateSummary (fullFileName)
   
   @outputfile << "\n</ul>"
 
+
   #----Identify Topics, sort by frequency, output to analysis ----#
   
-  @outputfile << "\n<h2> Topics Discussed in House of Reps </h2>"
+  @outputfile << "\n<h2> Topics Discussed in #{house_str} </h2>"
   @outputfile << "\n<ul>"
   seen = {}
   
@@ -99,7 +121,9 @@ def generateSummary (fullFileName)
   @outputfile << "\n</ul>"
   
   #-------------- Close Output PHP File -------------------# 
-  
+ 
+  @outputfile << "\n</div>" # end panel-body tag
+  @outputfile << "\n</div>" # end coloured panel
   @outputfile.close
 
   File.basename @outputfile # Return output filename
