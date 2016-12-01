@@ -9,7 +9,6 @@ $DEBUG = FALSE
 
 @inputFileLocation = "/var/www/pipeproject/sa/xmldata/"
 
-
 def openInputFile (filename)
 
 #  filenameWithPath = @inputFileLocation + filename
@@ -35,10 +34,11 @@ def openOutputFile (datestr)
     
 end 
 
+# Main code starts here - generateSummary is called by load_xml_tocs.rb
 
-def generateSummary (fullFileName)
+def generateSummary (full_file_name)
 
-  @doc = openInputFile(fullFileName)
+  @doc = openInputFile(full_file_name)
   
   
   #------Identify Date ------------ # 
@@ -55,6 +55,9 @@ def generateSummary (fullFileName)
   #------Identify House (Upper, lower, estimates...) ------------ # 
   
   house_str = @doc.xpath("//chamber").first.to_s
+
+  # TODO This is where you check to see whether that house of 
+  # parliament has already been summarised to the output file. 
  
   case house_str
   when /House/  # House of Reps is green in parliament
@@ -66,7 +69,16 @@ def generateSummary (fullFileName)
   end
   
   @outputfile << "\n<div class=\"panel-heading\">"
+
+  # Create a link to the actual Hansard for the day... 
+  saph_filename = File.basename(full_file_name , ".xml")
+
+  @official_url = "https://hansardpublic.parliament.sa.gov.au/Pages/DateDisplay.aspx#/DateDisplay/"
+
+  @outputfile << "\n<a href=\"#{@official_url + saph_filename}\">"
+
   @outputfile << "\n\t<h2> House: #{house_str} </h2>"
+  @outputfile << "\n</a>"
   @outputfile << "\n</div>"
   @outputfile << "\n<div class=\"panel-body\" >"
   

@@ -75,11 +75,14 @@ end
 # ----------------- Actual webhook code starts here -----------
 
 
-puts "Checking for missing files..."
-puts "Missing Files? " + 
-  AK_webhook_helper.are_there_missing_files.to_s if $DEBUG
+#puts "Checking for missing files..."
+#puts "Missing Files? " + 
+#  AK_webhook_helper.are_there_missing_files.to_s if $DEBUG
 
-emailText = "New Files Need Downloading!"
+puts "Generating summaries... " if $DEBUG
+AK_webhook_helper.generate_transcript_summaries
+
+#emailText = "Summary Generated - #{outputFile}"
 
 #AKEmailHelper.sendMail (emailText)
 

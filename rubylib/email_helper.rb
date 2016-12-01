@@ -12,10 +12,10 @@ module AKEmailHelper
 
     @outputfile = openOutputFile (@@Logfile)
   
-    @outputfile <<  " #{datestr} Email Text: " + emailText
+    @outputfile << "#{datestr} Email Text: " + emailText
 
-    @outputfile << "\n<h1> Basic File Analysis: #{datestr} </h1>"
-  
+    @outputfile << "#{datestr} Link: http://sa.pipeproject.info/missing_files.php"
+
     @outputfile.close
 
     File.basename @outputfile # Return output filename
@@ -28,7 +28,7 @@ module AKEmailHelper
   def openOutputFile ( filename )
 
     filename = @outputFileLocation + filename
-    File.open(filename, "w+")
+    File.open(filename, "a")
   
   end 
 

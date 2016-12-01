@@ -4,7 +4,7 @@
 <div class="container">
 <!-- Title -->
 <div class="row"> <div class="col-lg-12">
-	<h2>Available Summaries</h2>
+	<h2>Available Summaries - South Australia</h2>
     </div> </div>
 <!-- /.row -->
 
@@ -30,7 +30,7 @@ foreach ($reversed_list as $filename) {
 
           // manually ignore . and .. ; better to use File.file? but the 
           // logic block kept throwing errors somewhere. TODO: fix this.
-          if ($filename != "." && $filename != "..") {
+          if ($filename != "." && $filename != ".." && $filename != "archive") {
                echo "<br> <a href=\"{$linkaddr}\">";
                echo $filename;
                echo "</a>";
