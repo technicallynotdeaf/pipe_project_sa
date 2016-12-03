@@ -147,7 +147,7 @@ class JSONDownloader
     warn 'nil year supplied?' if(year == NIL) 
 
     urlToLoad = @jsonDownloadYearURL + year.to_s
-    filename = PIPEConf::JSON_INDEX_DIR "#{year.to_s}_hansard.json"
+    filename = PIPEConf::JSON_INDEX_DIR + "#{year.to_s}_hansard.json"
     
     puts "downloading file #{filename}" if $debug  
     `curl --silent --output #{filename} "#{urlToLoad}"`
