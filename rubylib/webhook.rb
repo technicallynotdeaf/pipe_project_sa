@@ -15,10 +15,14 @@ require_relative 'scraper' # has JSONDownloader class
 require_relative 'generate_summary'
 require_relative 'email_helper'
 
+require_relative 'configuration'
+
 $DEBUG = TRUE
 $VERBOSE = FALSE
 
 module AK_webhook_helper
+  
+  include PIPEConf
 
   def AK_webhook_helper.are_there_missing_files
 
@@ -45,8 +49,7 @@ module AK_webhook_helper
 
   def AK_webhook_helper.generate_transcript_summaries
 
-    $source_folder = '/var/www/pipeproject/sa/xmldata/*'
-    $dest_folder = '/var/www/pipeproject/sa/summaries/'
+    $source_folder = PIPEConf::XML_TOC_DIR + "*"
 
     # remove existing files or check for them? 
     # or evn better, pass as an argument? 
@@ -57,7 +60,9 @@ module AK_webhook_helper
       if ( File.file? filename) then
       
         puts "Input: " + File.basename( filename ) if $VERBOSE
-  
+ 
+        # catch where the summary has been output to from the 
+        # generateSummary method 
         outputFile = generateSummary( filename )
 
         puts "Output:" + outputFile if $VERBOSE
@@ -81,5 +86,5 @@ puts "Missing Files? " +
 
 emailText = "New Files Need Downloading!"
 
-#AKEmailHelper.sendMail (emailText)
+#AKEmailHelper.sendMail (email_text, email_address)
 

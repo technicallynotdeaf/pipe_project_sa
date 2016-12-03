@@ -1,20 +1,29 @@
 #!/bin/ruby
 
 require 'date'
+require_relative 'configuration'
 
-module AKEmailHelper
+module AKEmailHelper 
 
-  @@Logfile = "email.log"
+  include PIPEConf # so I can use the configuration... 
 
-  def self.sendMail ( emailText )
+  # For now, just send an email to the Admin address with this text
+  # NB doesn't actually attempt to send email yet, just logs attempt  
+  def self.sendAdminMail ( emailText )
 
     datestr = Time.now.to_s
 
-    @outputfile = openOutputFile (@@Logfile)
-  
-    @outputfile << "#{datestr} Email Text: " + emailText
+    @outputfile = self.open_log_file ("email.log")
 
-    @outputfile << "#{datestr} Link: http://sa.pipeproject.info/missing_files.php"
+    puts "Email logged to #{@outputfile.path}"
+  
+    @outputfile << "\n#{datestr} Email Text: " + emailText
+
+#     server = PIPEConf::EMAIL_SERVER
+
+    @outputfile << "\n#{datestr} Server: #{PIPEConf::EMAIL_SERVER}"
+
+    @outputfile << "\n ---  \n" # to delineate between records
 
     @outputfile.close
 
@@ -23,11 +32,9 @@ module AKEmailHelper
   end
 
 
-  @outputFileLocation = "/var/www/pipeproject/sa/"
+  def self.open_log_file ( filename )
 
-  def openOutputFile ( filename )
-
-    filename = @outputFileLocation + filename
+    filename = PIPEConf::LOG_FILE_DIR + filename
     File.open(filename, "a")
   
   end 

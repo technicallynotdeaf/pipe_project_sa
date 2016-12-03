@@ -114,7 +114,8 @@ class JSONDownloader
 
     if ( @transcripts_missing == 0 ) then
       @outputfile << "\n<h4> No Transcripts missing from "
-      @outputfile << "#{annualIndexFilename} </h4>"
+      file_basename = File.basename(annualIndexFilename, ".json")
+      @outputfile << "#{file_basename} </h4>"
     end
 
 #    @outputfile << "\n</div>" #end col-sm-4

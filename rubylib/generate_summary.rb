@@ -2,25 +2,22 @@
 
 require 'nokogiri'
 require 'date'
+require_relative 'configuration'
 
 
 $DEBUG = FALSE
-# not used yet, I need to class-ify the code structure LOTS MORE!!
+#  I need to class-ify the code structure LOTS MORE!!
 
-@inputFileLocation = "/var/www/pipeproject/sa/xmldata/"
 
 def openInputFile (filename)
 
-#  filenameWithPath = @inputFileLocation + filename
   Nokogiri::XML(File.open(filename))
 
 end 
 
 def openOutputFile (datestr)
 
-  @outputFileLocation = "/var/www/pipeproject/sa/summaries/"
-
-  filename = @outputFileLocation + datestr + ".php"
+  filename = PIPEConf::SUMMARY_OUTPUT_DIR + datestr + ".php"
 
   # If the file doesn't exist, put in the header and heading
   if (!File.exists? filename) then
@@ -56,7 +53,7 @@ def generateSummary (full_file_name)
   
   house_str = @doc.xpath("//chamber").first.to_s
 
-  # TODO This is where you check to see whether that house of 
+  # TODO This is where I should check to see whether that house of 
   # parliament has already been summarised to the output file. 
  
   case house_str
@@ -73,9 +70,9 @@ def generateSummary (full_file_name)
   # Create a link to the actual Hansard for the day... 
   saph_filename = File.basename(full_file_name , ".xml")
 
-  @official_url = "https://hansardpublic.parliament.sa.gov.au/Pages/DateDisplay.aspx#/DateDisplay/"
+  date_display_url = "https://hansardpublic.parliament.sa.gov.au/Pages/DateDisplay.aspx#/DateDisplay/"
 
-  @outputfile << "\n<a href=\"#{@official_url + saph_filename}\">"
+  @outputfile << "\n<a href=\"#{date_display_url + saph_filename}\">"
 
   @outputfile << "\n\t<h2> House: #{house_str} </h2>"
   @outputfile << "\n</a>"

@@ -82,7 +82,8 @@ end
 puts "Generating summaries... " if $DEBUG
 AK_webhook_helper.generate_transcript_summaries
 
-#emailText = "Summary Generated - #{outputFile}"
+puts "Sending email.." if $DEBUG
+emailText = "Summaries Generated - http://sa.pipeproject.info/summaries_list.php"
 
-#AKEmailHelper.sendMail (emailText)
+AKEmailHelper.sendAdminMail (emailText)
 
